@@ -1,0 +1,41 @@
+Current : 1 : 1Previous : -1 : -1 temp : f
+Current : 1 : 2Previous : 1 : 1 temp : fu
+Current : 0 : 2Previous : 1 : 2 temp : fun
+found the input: path: f(1,1)u(1,2)n(0,2) found:true
+
+Current : 2 : 3Previous : 1 : 2 temp : fun
+found the input: path: f(1,1)u(1,2)n(2,3) found:true
+Current : 2 : 0Previous : -1 : -1 temp : f
+Current : 3 : 1Previous : -1 : -1 temp : f
+Current : 4 : 1Previous : 3 : 1 temp : fu
+Current : 4 : 0Previous : 4 : 1 temp : fun
+found the input: path: f(3,1)u(4,1)n(4,0) found:true
+Current : 4 : 2Previous : -1 : -1 temp : f
+Current : 3 : 3Previous : 4 : 2 temp : fu
+Current : 2 : 3Previous : 3 : 3 temp : fun
+found the input: path: f(4,2)u(3,3)n(2,3) found:true
+Current : 4 : 1Previous : 4 : 2 temp : fu
+Current : 4 : 3Previous : 4 : 2 temp : fu
+
+
+
+
+
+
+
+
+
+
+
+found the input: path: f(1,1)u(1,2)n(0,2) found:true
+found the input: path: f(1,1)u(1,2)n(2,3) found:true
+found the input: path: f(3,1)u(4,1)n(4,0) found:true
+found the input: path: f(4,2)u(3,3)n(2,3) found:true
+
+found the input: path: f(1,1)u(1,2)n(0,2) found:true
+found the input: path: f(1,1)u(1,2)n(2,3) found:true
+found the input: path: f(3,1)u(4,1)n(4,0) found:true
+found the input: path: f(4,2)u(3,3)n(2,3) found:true
+found the input: path: f(4,2)u(3,3)n(4,4) found:true
+found the input: path: f(4,2)u(4,1)n(4,0) found:true
+found the input: path: f(4,2)u(4,3)n(4,4) found:true

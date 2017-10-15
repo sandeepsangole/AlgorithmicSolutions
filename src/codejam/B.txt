@@ -1,0 +1,3 @@
+Case #1: SOUP
+Case #2: BANANA
+Case #3: AMBIGUOUS
